@@ -1,0 +1,2 @@
+-- Data cleaning and transformation script
+-- Includes column renaming, datatype fixes, missing value handling
