@@ -1,4 +1,5 @@
-# US Hospital Analytics
+# US Healthcare Hospital Cost and Quality Performance Analysis
+
 
 This project analyzes hospital quality, cost, and performance across the United States
 using the CORGIS Hospitals dataset.
