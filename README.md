@@ -1,8 +1,8 @@
 # US Healthcare Hospital Cost and Quality Performance Analysis
 
 
-This project analyzes hospital quality, cost, and performance across the United States
-using the CORGIS Hospitals dataset.
+An end-to-end data analytics project analyzing hospital costs, quality metrics
+and regional disparities using SQL, Python and Tableau.
 
 ## Dataset
 Source: https://corgis-edu.github.io/corgis/csv/hospitals/
