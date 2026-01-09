@@ -8,9 +8,9 @@ and regional disparities using SQL, Python and Tableau.
 Source: https://corgis-edu.github.io/corgis/csv/hospitals/
 
 ## Tools Used
-- MySQL
-- MySQL Workbench
 - SQL
+- Python
+- Tableau
 - Git & GitHub
 
 ## Project Status
